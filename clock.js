@@ -1,7 +1,7 @@
 let hr = document.querySelector("#hr");
 let min = document.querySelector("#min");
 let sec = document.querySelector("#sec");
-
+// timeFunction
 function timeFunction() {
   let date = new Date();
 
